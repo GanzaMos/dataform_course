@@ -1,0 +1,5 @@
+defaultProject: bigquery-first-448814
+defaultLocation: EU
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
